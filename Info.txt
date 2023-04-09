@@ -1,0 +1,7 @@
+#  RPC : Evo Chain
+# # # Connect with Metamask # #  
+# Network Name - Evolve Testnet
+# RPC - testnet.evolvechain.org/rpc
+# Chain id - 52215
+# symbol - EVO
+# Block Explorer - testnet.evolvechain.org
